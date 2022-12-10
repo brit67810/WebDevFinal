@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(207, 225, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+li {
+    font-size: 14px;
+    font-weight: lighter;
+}
+.listheadings {
+    font-size: 20px;
+    font-weight: bold;
+}
